@@ -1,0 +1,19 @@
+{
+  "name": "http-crud",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "server": "json-server server/db.json --port 3001"
+  },
+  "devDependencies": {
+    "json-server": "^1.0.0-alpha.23",
+    "vite": "^5.0.8"
+  },
+  "dependencies": {
+    "node-util": "^0.0.1"
+  }
+}
