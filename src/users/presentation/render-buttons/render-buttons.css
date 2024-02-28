@@ -1,0 +1,13 @@
+
+button {
+    margin: 10PX;
+}
+
+#current-page {
+    font-size: 1.3rem;
+    color: white !important;
+    margin-right: 10px;
+    margin-left: 10PX;
+}
+
+

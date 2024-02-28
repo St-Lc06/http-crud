@@ -21,7 +21,7 @@ export const localhostUserToModel = ( localhostUser ) => {
     return new User({ // el obj que se va a crear va a tener los valores esperados
         avatar,
         balance,
-        firtstName: first_name,
+        firstName: first_name,
         gender,
         id, 
         isActive,
